@@ -1,5 +1,9 @@
 # directus-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/directus-or-just-updated-headless-cms-yo?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Directus template](https://railway.com/deploy/directus-or-just-updated-headless-cms-yo?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Directus](https://directus.io) on
 [Railway](https://railway.com). Published as
 `ghcr.io/bon5co/directus-railway:12.3.0`.
